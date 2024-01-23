@@ -1,0 +1,18 @@
+### Project-Specific Directories
+
+Throughout the program, we will complete various projects. Setting up each project in its own sub-directory will allow you to stay organized - a key competency of a data professional.
+
+For the projects that are evaluated, your GitHub repo will be used to submit your project. You will also be evaluated on the organization of your repo. 
+
+> #### Note
+> Before you start on your first project, you’ll be given an example of the organization required in your GitHub repo.
+
+Here are a few tips for organizing your project repos:
+
+- Create separate folders for different projects
+- Separate data files from code
+- Organize code by features and types
+
+## Conclusion
+
+As mentioned, being organized is a key competency of a data professional. Something as simple as keeping an intuitive folder structure for your projects and their respective code will support you as you progress through this program and in creating a portfolio of your own projects. 
