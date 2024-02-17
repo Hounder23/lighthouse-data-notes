@@ -1,0 +1,13 @@
+CREATE TABLE airport(
+    airport_code    char(3) PRIMARY KEY,
+    airport_name    varchar(40),
+    airport_city    varchar(40),
+    airport_counrty varchar(40),
+);
+
+CREATE TABLE property(
+    property_id         char(11) PRIMARY KEY,
+    property_district   varchar(40),
+    property_owner      varchar(40),
+    property_value      varchar(40),
+);
